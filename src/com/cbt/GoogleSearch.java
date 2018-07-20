@@ -14,6 +14,7 @@ public class GoogleSearch {
 		driver.get("https://www.etsy.com/search?q=wooden%20spoon");
 		
 		//made some changes
+		//another change on the site
 	}
 
 }
