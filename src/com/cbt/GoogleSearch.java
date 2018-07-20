@@ -12,6 +12,8 @@ public class GoogleSearch {
 		WebDriver driver = new ChromeDriver();
 		
 		driver.get("https://www.etsy.com/search?q=wooden%20spoon");
+		
+		//made some changes
 	}
 
 }
