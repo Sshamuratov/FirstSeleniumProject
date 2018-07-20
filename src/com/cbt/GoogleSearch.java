@@ -13,15 +13,7 @@ public class GoogleSearch {
 		
 		driver.get("https://www.etsy.com/search?q=wooden%20spoon");
 		
-		//made some changes
-<<<<<<< HEAD
-		
-		
-		
-		//how about some more
-=======
-		//another change on the site
->>>>>>> 5eb353b0ede35a0382bd29d7919203149b5cd7d6
+
 	}
 
 }
